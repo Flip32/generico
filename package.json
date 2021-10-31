@@ -24,6 +24,7 @@
     "react-native-paper": "^4.9.2",
     "react-native-safe-area-context": "3.2.0",
     "react-native-screens": "~3.4.0",
+    "react-native-svg-transformer": "^0.14.3",
     "react-native-version-check-expo": "^3.4.2",
     "react-native-web": "~0.13.12",
     "yup": "^0.32.11"
